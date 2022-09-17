@@ -11,8 +11,6 @@
  19/10/2021 - Michel Maia
 
 
-[ 📎 Clique aqui para acessar] (https://michel-maia.github.io/Projeto-PG-Google-Glass/)
-
  ## Tecnologias 🖥️ 🚀 
 
 - HTML
